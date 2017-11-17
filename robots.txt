@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /targets/
+Disallow: /images/
+Disallow: /assets/
+Disallow: serverinfo.txt
+Disallow: *.zip

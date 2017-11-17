@@ -1,0 +1,19 @@
+body {
+  margin-bottom: 30px;
+}
+.basic {
+  padding: 1px 15px;
+  text-align: left;
+}
+body > .container {
+  padding: 20px 15px 0;
+}
+.label {
+  display: inline-block;
+}
+.navbar-brand {
+  padding: 0;
+}
+.extra-padding {
+  margin-top: 10px;
+}
